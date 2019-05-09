@@ -1,0 +1,16 @@
+{
+    "api_url":"https://www.extra-life.org/api/",
+    "team_id":"43926",
+    "between":{
+        "start":{
+            "year":"2019",
+            "month":"05",
+            "day":"01"
+        },
+        "end":{
+            "year":"2019",
+            "month":"50",
+            "day":"07"
+        }
+    }
+}
